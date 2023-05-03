@@ -1,2 +1,3 @@
-# .github
-Fedora and EL related projects
+# SpotSnel @ Fedora
+
+### Fedora and EL related projects
